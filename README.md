@@ -11,3 +11,5 @@
 <br/>
 
 ## 3. Reference
+
+- [Rustプログラミング完全ガイド](https://book.impress.co.jp/books/1121101129)
